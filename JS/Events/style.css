@@ -1,0 +1,35 @@
+ body{
+    text-align: center;
+/* display: flex; */
+/* justify-content: center; */
+
+}
+    div{
+
+    
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    border: 1px solid black;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid beige;
+    background-color: aqua;
+}
+
+
+
+     div{
+        background-color: blue;
+        height: 200px;
+        width: 400px;
+
+     }
+     ul{
+        background-color: violet;
+     }
+     li{
+        background-color: yellow;
+     }

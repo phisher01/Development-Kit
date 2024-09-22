@@ -1,0 +1,10 @@
+.red{
+    color:rgb(255, 0, 0);
+}
+.blue{
+    color: rgb(0, 0, 255);
+
+}.box{
+    border: 1px solid black;
+    background-color: pink;
+}

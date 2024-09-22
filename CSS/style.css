@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    background-color: blue;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 35px;
+    font-family: fantasy,papyrus;
+    
+}
+p{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    line-height: 2;
+    font-size: 15px;
+    font-family: avant garde,sans-serif;
+}
+button{
+    color: white;
+    background-color:blue;
+}
+h2{
+    color: orange;
+}
+
+a{
+    text-decoration: red wavy line-through;
+}

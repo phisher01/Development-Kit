@@ -1,0 +1,25 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: yellowgreen;
+    margin-top: 10px;
+
+    box-shadow: 2px 2px 20px rgb(0, 0, 0);
+    background-image: url(kellen-riggin-KVa4WFUiQk4-unsplash.jpg);
+    background-size: cover ; 
+
+
+/* transition-duration:  1s ;
+    transition-delay: 1s; */
+    transition: margin-top 2s ease 0.2s;
+
+    
+}
+div:hover{
+    /* opacity: 0.5; */
+    background-color: blueviolet;
+    /* border-radius: 50%; */
+    margin-top: 500px;
+    border-radius:20px;
+
+}
